@@ -1,3 +1,6 @@
+git clone https://github.com/ElizabethLov3/unlock
+cd unlock
+
 ![Unlock](/unlock-protocol-com/public/images/unlock-word-mark-dark.png#gh-dark-mode-only)
 ![Unlock](/unlock-protocol-com/public/images/unlock-word-mark.png#gh-light-mode-only)
 
